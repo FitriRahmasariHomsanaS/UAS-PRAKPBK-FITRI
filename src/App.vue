@@ -3,7 +3,7 @@
     <q-header class="bg-grey">
       <q-toolbar>
         <q-avatar>
-          <img src="/src/assets/logo.png" alt="Logo" />
+          <img src="/images/logo.png" alt="Logo" />
         </q-avatar>
 
         <q-toolbar-title class="text-white">WEATHER</q-toolbar-title>
@@ -168,7 +168,7 @@ export default {
 
 body {
   font-family: 'Lato', sans-serif;
-  background: url('src/assets/background.jpg') no-repeat center center fixed;
+  background: url('/images/background.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #ffffff;
   margin: 0;
